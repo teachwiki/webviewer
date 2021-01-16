@@ -36,7 +36,7 @@ app.get('/', (req, res) => {
 
 app.get('/sample-url', (req, res) => {
   res.redirect(
-    `/#d=https://pdftron.s3.amazonaws.com/downloads/pl/demo-annotated.pdf&a=1`,
+    `/#d=https://www.pdftron.com/downloads/pl/test.pdf&a=1`,
   );
 });
 
