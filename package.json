@@ -1,9 +1,9 @@
 {
   "version": "7.2.0-20210111",
-  "name": "@pdftron/webviewer",
+  "name": "@teachwiki/webviewer",
   "main": "webviewer.min.js",
   "author": "PDFTron",
-  "homepage": "https://www.pdftron.com/documentation/web",
+  "homepage": "",
   "keywords": [
     "PDF SDK",
     "WebViewer",
