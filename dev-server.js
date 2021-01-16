@@ -47,7 +47,7 @@ app.listen(3000, '0.0.0.0', err => {
     // eslint-disable-next-line
     console.info(`Listening at localhost:3000 (http://${ip.address()}:3000)`);
     opn(
-      'http://localhost:3000/#d=https://pdftron.s3.amazonaws.com/downloads/pl/demo-annotated.pdf&a=1',
+      'http://localhost:3000/#d=https://www.pdftron.com/downloads/pl/test.pdf&a=1',
     );
   }
 });
